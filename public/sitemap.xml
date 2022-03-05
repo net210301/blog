@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ininder.30cm.net/page/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ininder.30cm.net/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ininder.30cm.net/%E9%97%9C%E6%96%BC/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ininder.30cm.net/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ininder.30cm.net/categories/test/</loc>
+  </url><url>
+    <loc>https://ininder.30cm.net/categories/</loc>
+  </url><url>
+    <loc>https://ininder.30cm.net/tags/</loc>
+  </url><url>
+    <loc>https://ininder.30cm.net/%E5%8F%8B%E6%83%85%E9%80%A3%E7%B5%90/</loc>
+  </url><url>
+    <loc>https://ininder.30cm.net/search/</loc>
+  </url>
+</urlset>

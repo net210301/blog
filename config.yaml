@@ -13,7 +13,7 @@ languages:
 # Change it to your Disqus shortname before using
 disqusShortname: vernacular-1
 
-# GA Tracking ID
+# GA Tracking fID
 googleAnalytics: UA-110945093-1
 
 # Theme i18n support
@@ -51,9 +51,9 @@ params:
             src: img/4057.JPG
 
     article:
-        math: false
+        math: true
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: false
             default: Licensed under CC BY-NC-SA 4.0
@@ -214,7 +214,7 @@ menu:
 related:
     includeNewer: true
     threshold: 60
-    toLower: false
+    toLower: true
     indices:
         - name: tags
           weight: 100
@@ -226,9 +226,9 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
-        endLevel: 4
+        endLevel: 2
         ordered: true
         startLevel: 2
     highlight:
@@ -238,4 +238,4 @@ markup:
         lineNoStart: 1
         lineNos: true
         lineNumbersInTable: true
-        tabWidth: 4
+        tabWidth: 2
