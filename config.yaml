@@ -228,9 +228,9 @@ markup:
             ## Set to true if you have HTML content inside Markdown
             unsafe: true
     tableOfContents:
-        endLevel: 2
+        endLevel: 1
         ordered: true
-        startLevel: 2
+        startLevel: 1
     highlight:
         noClasses: false
         codeFences: true
@@ -238,4 +238,4 @@ markup:
         lineNoStart: 1
         lineNos: true
         lineNumbersInTable: true
-        tabWidth: 2
+        tabWidth: 1
